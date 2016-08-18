@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  form(action="http://192.168.1.103:3000/upload", method="post", enctype="multipart/form-data")
+    input(type="file", name="file")
+    p
+    input(type="submit", value="Upload")
+    img(src='/images/23123.jpg')

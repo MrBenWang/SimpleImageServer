@@ -1,0 +1,40 @@
+{
+    "image_url":"http://192.168.1.103:3000/getimage/",
+    "image_dir":"E:/Images/Image_Test/", 
+    "tmp_dir":"E:/Images/imgtmp/",
+    "imageType": {
+        "jpg": "image/jpeg",
+        "jpeg": "image/jpeg",
+        "gif": "image/gif",
+        "png": "image/png",
+        "bmp": "image/bmp"
+    },
+    "imageType2": {
+        "image/jpeg":"jpg",
+        "image/jpeg":"jpeg",
+        "image/gif":"gif",
+        "image/png":"png",
+        "image/bmp":"bmp"
+    },
+    "mail":{
+        "host":"smtp.163.com",
+        "port":"25",
+        "auth":{
+            "user": "bashannan@163.com",
+            "pass": "200321"
+        },
+        "from":"bashannan@163.com",
+        "to":"258927389@qq.com"
+    },
+    "mail2":{
+        "host":"smtp.canadacomputers.com",
+        "port":"25",
+        "auth":{
+            "user": "hrms@canadacomputers.com",
+            "pass": "hrmshrms"
+        },
+        "from":"hrms@canadacomputers.com",
+        "to":"michelle.hu@canadacomputers.com,shiwen.xie@canadacomputers.com,258927389@qq.com"
+    },
+    "img404":"E:/Images/img/404img.jpg"
+}
