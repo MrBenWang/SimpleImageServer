@@ -10,25 +10,25 @@
         "bmp": "image/bmp"
     },
 	"mail":{
-        "host":"smtp.canadacomputers.com",
+        "host":"smtp.222.com",
         "port":"587",
 		"secureConnection": "true",
         "auth":{
-            "user": "hrms@canadacomputers.com",
-            "pass": "hrmshrms"
+            "user": "222@222.com",
+            "pass": "222"
         },
-        "from":"hrms@canadacomputers.com",
-        "to":"michelle.hu@canadacomputers.com,shiwen.xie@canadacomputers.com,258927389@qq.com"
+        "from":"222@222.com",
+        "to":"222.hu@222.com,222.xie@222.com,222@qq.com"
     },
     "mail1":{
         "host":"smtp.163.com",
         "port":"25",
         "auth":{
-            "user": "bashannan@163.com",
-            "pass": "200321"
+            "user": "222@163.com",
+            "pass": "222"
         },
-        "from":"bashannan@163.com",
-        "to":"258927389@qq.com"
+        "from":"222@163.com",
+        "to":"222@qq.com"
     },
     
     "img404":"E:/Images/img/404img.jpg"
